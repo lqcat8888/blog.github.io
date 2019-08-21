@@ -1,13 +1,30 @@
-* Download all source code (either via git or just download as zip)
+Agency Jekyll theme
+====================
 
-* Create a new repo named username.github.io which username is your name on Github
+Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
 
-* Copy all code to this repo
+# How to use
 
-* Edit `javascripts/config.js` to your settings
+###Portfolio 
 
-* Edit `index.html` title to yours (L21 & L29)
+Portfolio projects are in '/_posts'
 
-* Edit CNAME if you have a custom domain
+Images are in '/img/portfolio'
 
-Live DEMO: <http://hooloo.github.io>
+###About
+
+Images are in '/img/about/'
+
+###Team
+
+Team members and info are in '_config.yml'
+
+Images are in '/img/team/'
+
+
+# Demo
+
+View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
+
+=========
+For more details, read [documentation](http://jekyllrb.com/)
